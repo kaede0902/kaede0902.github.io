@@ -1,3 +1,4 @@
+<title>title</title>
 # kaede0902.github.io
 Porfolio Website
 ## Why code
@@ -28,4 +29,4 @@ as much as Japanese.
 * node
 
 ### others
-* SQL, Java, bash, css3, python3,
+* Vim, SQL, Java, bash, css3, python3,
